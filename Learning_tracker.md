@@ -4,7 +4,7 @@ Check off each topic as you finish it.
 
 ---
 
-## Phase 1 — foundation
+## Phase 1 — Foundation
 
 - [ ] Java program structure
 - [ ] JVM, JRE, JDK
