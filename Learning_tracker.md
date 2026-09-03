@@ -1,4 +1,4 @@
-# Learning Tracker — Hariharasudhan
+# Learning Tracker 
 
 Check off each topic as you finish it.
 
