@@ -4,7 +4,7 @@ Learning path based on the class notes (java_notes.pptx). Each folder maps to on
 
 ---
 
-## Phase 1 — Basics
+## Phase 1 — Foundation
 
 | # | Topic | Folder |
 |---|---|---|
@@ -14,13 +14,6 @@ Learning path based on the class notes (java_notes.pptx). Each folder maps to on
 | 4 | Control flow — if, else-if, nested if, switch | `02-control-flow/` |
 | 5 | Loops — for, while, do-while, nested | `03-loops/` |
 | 6 | Arrays — 1D, 2D, traversal, algorithms | `04-arrays/` |
-
----
-
-## Phase 2 — Methods , Functions Strings
-
-| # | Topic | Folder |
-|---|---|---|
 | 7 | Methods — defining, parameters, return values | `05-methods/` |
 | 8 | Method overloading | `05-methods/` |
 | 9 | Recursion — base case, recursive case | `06-recursion/` |
@@ -29,7 +22,7 @@ Learning path based on the class notes (java_notes.pptx). Each folder maps to on
 
 ---
 
-## Phase 3 — OOP
+## Phase 2 — OOP
 
 | # | Topic | Folder |
 |---|---|---|
@@ -44,7 +37,7 @@ Learning path based on the class notes (java_notes.pptx). Each folder maps to on
 
 ---
 
-## Phase 4 — Error Handling & Advanced
+## Phase 3 — Error Handling & Advanced
 
 | # | Topic | Folder |
 |---|---|---|
@@ -54,7 +47,7 @@ Learning path based on the class notes (java_notes.pptx). Each folder maps to on
 
 ---
 
-## Phase 5 — Collections & File I/O
+## Phase 4 — Collections & File I/O
 
 | # | Topic | Folder |
 |---|---|---|
