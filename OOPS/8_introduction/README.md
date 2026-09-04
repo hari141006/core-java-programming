@@ -21,7 +21,7 @@ Everything in Java revolves around classes and objects. This section is the foun
 
 ## Folder Structure
 
-\`\`\`text
+```text
 
 08-oop/
 │
