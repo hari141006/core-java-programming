@@ -1,7 +1,42 @@
 
-// Definition:
-// The recursive case is the part of a method where it calls itself.
-// The recursive call should move toward the base case.
+/*
+    RECURSIVE CASE
+
+    The recursive case is the part where the method calls
+    itself again.
+
+    Each recursive call should solve a smaller version of
+    the original problem.
+
+    If the problem is not reduced, recursion will never
+    reach the base case.
+
+    Example:
+
+    print(5)
+
+    ↓
+
+    print(4)
+
+    ↓
+
+    print(3)
+
+    ↓
+
+    print(2)
+
+    ↓
+
+    print(1)
+
+    ↓
+
+    print(0)
+
+    Base Case reached.
+*/
 
 class recursivecase_example {
 
