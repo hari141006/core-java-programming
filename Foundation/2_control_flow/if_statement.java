@@ -3,7 +3,7 @@
 // The if statement executes a block of code when a condition is true.
 // It is used for basic decision-making in a Java program.
 
-class ifStatement {
+public class if_statement {
     public static void main(String[] args) {
 
         int age = 20;

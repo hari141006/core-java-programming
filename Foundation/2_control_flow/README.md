@@ -2,7 +2,7 @@
 
 How the program decides what to do based on conditions.
 
-**## Topics Covered**
+## Topics Covered
 
 - [ ] if statement — basic condition check
 

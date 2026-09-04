@@ -15,7 +15,7 @@ Breaking a big program into smaller reusable blocks of code.
 
 ## Folder Structure
 
-\`\`\`text
+```text
 
 05-methods/
 │

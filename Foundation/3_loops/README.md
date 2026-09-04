@@ -11,7 +11,8 @@ Repeating things without writing the same code over and over.
 
 ## Folder Structure
 
-\`\`\`text
+```text
+
 03-loops/
 │
 ├── README.md

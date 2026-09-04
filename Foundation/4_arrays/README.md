@@ -16,7 +16,7 @@ Storing multiple values in a single variable instead of creating a new variable 
 
 ## Folder Structure
 
-\`\`\`text
+```text
 
 04-arrays/
 │

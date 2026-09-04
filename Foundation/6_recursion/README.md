@@ -15,7 +15,7 @@ A method that calls itself to solve a smaller version of the same problem.
 
 ## Folder Structure
 
-\`\`\`text
+```text
 
 06-recursion/
 │

@@ -16,7 +16,7 @@ Working with text in Java. Strings are one of the most commonly used data types 
 
 ## Folder Structure
 
-\`\`\`text
+```text
 
 07-strings/
 │
