@@ -19,7 +19,7 @@ Everything in Java revolves around classes and objects. This section is the foun
 - [ ] Static variables and static methods
 - [ ] Difference between class and object
 
-**## Folder Structure**
+## Folder Structure
 
 \`\`\`text
 
