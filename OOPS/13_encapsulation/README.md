@@ -1,5 +1,5 @@
 
-# 14 - Encapsulation
+# 13 - Encapsulation
 
 Encapsulation is one of the four fundamental principles of
 Object-Oriented Programming (OOP).
