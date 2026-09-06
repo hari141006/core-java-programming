@@ -25,6 +25,7 @@ A constructor is a special block of code that is used to initialize
 objects when they are created.
 
 Example:
+
 ```java
 class Student {
 
@@ -53,7 +54,6 @@ class ClassName {
 ```
 
 ```java
-
 // super() - syntax
 class Parent {
 
