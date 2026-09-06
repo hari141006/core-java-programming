@@ -32,3 +32,43 @@ class Student {
         System.out.println("Constructor called");
     }
 }
+```
+
+```java
+ // this()- syntax
+class ClassName {
+
+    ClassName() {
+
+        this("value");
+
+    }
+
+    ClassName(String value) {
+
+        // initialization
+
+    }
+}
+```
+
+```java
+
+// super() - syntax
+class Parent {
+
+    Parent() {
+
+        // parent constructor
+
+    }
+}
+
+class Child extends Parent {
+
+    Child() {
+
+        super();
+
+    }
+}
