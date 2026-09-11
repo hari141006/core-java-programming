@@ -9,7 +9,6 @@
 
 ## Phase 3 — Error Handling & Advanced
 
-
 - [ ] Exception handling — try, catch, finally
 - [ ] Checked vs unchecked exceptions
 - [ ] Multiple catch blocks
