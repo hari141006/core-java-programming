@@ -16,5 +16,4 @@
 | 9 | Recursion — base case, recursive case | `06-recursion/` |
 | 10 | String — declaration, methods, comparison | `07-strings/` |
 | 11 | String vs StringBuffer vs StringBuilder | `07-strings/` |
-
 ---
