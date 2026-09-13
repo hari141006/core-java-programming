@@ -3,7 +3,6 @@
 
 ## Phase 1 — Foundation
 
-
 | # | Topic | Folder |
 |---|---|---|
 | 1 | Java program structure, JVM/JRE/JDK | `01-basics/` |
