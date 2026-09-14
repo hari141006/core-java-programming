@@ -19,6 +19,17 @@ Polymorphism is an important OOP concept in Java that means **"one thing, many f
 - [ ] `@Override` annotation
 - [ ] Advantages of Polymorphism
 
+## One-Line Definitions
+
+- Polymorphism → One thing having many forms.
+- Compile-Time Polymorphism → Achieved through method overloading.
+- Runtime Polymorphism → Achieved through method overriding.
+- Method Overloading → Same method name with different parameters.
+- Method Overriding → Child class provides a new implementation of a parent method.
+- Dynamic Method Dispatch → Selection of an overridden method at runtime.
+- Upcasting → Converting child reference to parent reference.
+- Downcasting → Converting parent reference to child reference.
+
 ## Types of Polymorphism
 
 ### 1. Compile-Time Polymorphism
@@ -35,3 +46,5 @@ Different Parameters
 Method Overloading
        ↓
 Compile-Time Polymorphism
+
+

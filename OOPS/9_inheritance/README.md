@@ -19,6 +19,7 @@ Inheritance is an OOP concept in Java where one class acquires the properties an
 - [ ] Advantages and limitations of Inheritance
 
 ```text
+
 extends
    ↓
 Used for class inheritance
